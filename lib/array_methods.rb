@@ -7,7 +7,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  arrat.reverse
 end
 
 def using_first(array)
